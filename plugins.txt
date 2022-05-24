@@ -1,0 +1,13 @@
+configuration-as-code:latest
+workflow-aggregator:latest
+pipeline-stage-view:latest
+workflow-multibranch:latest
+github-branch-source:latest
+docker-build-publish:latest
+dockerhub-notification:latest
+copyartifact:latest
+pipeline-github-lib:latest
+pipeline-github:latest
+github:latest
+docker-plugin:latest
+job-dsl:latest
