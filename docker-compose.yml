@@ -19,3 +19,4 @@ services:
       - DOCKER_API_IP=${DOCKER_API_IP}
       - DOCKER_API_PORT=${DOCKER_API_PORT}
       - CASC_JENKINS_CONFIG=/var/jenkins_home/jenkins.yml
+    privileged: true
